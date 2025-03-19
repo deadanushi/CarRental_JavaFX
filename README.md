@@ -15,19 +15,19 @@ This is a JavaFX-based e-commerce desktop application that allows users to regis
 ## Screenshots
 
 ### Login & Registration Page
-![Login & Registration](./images/1.png)
+![Login & Registration](./images/1.PNG)
 
 ### Home Page
-![Home Page](./images/2.png)
+![Home Page](./images/2.PNG)
 
 ### All Products Page
-![All Products](./images/3.png)
+![All Products](./images/3.PNG)
 
 ### Basket Page
-![Basket](./images/4.png)
+![Basket](./images/4.PNG)
 
 ### Payment Page
-![Payment](./images/5.png)
+![Payment](./images/5.PNG)
 
 ## Technologies Used
 - JavaFX
