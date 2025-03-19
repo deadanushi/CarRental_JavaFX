@@ -1,6 +1,5 @@
 package a.project;
 
-//Group: Deada, Antonio, Roland, Dariel
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
